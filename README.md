@@ -1,1 +1,1 @@
-# LaboMicropocesadores
+# LaboMicroprocesadores
