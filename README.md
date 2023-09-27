@@ -1,1 +1,1 @@
-# LP2
+# LaboMicropocesadores
